@@ -165,9 +165,11 @@ One of my main projects is building a small enterprise-style cybersecurity envir
 ```text
 CPU       → Intel Core i7
 RAM       → 16 GB
-Storage   → 1 TB
+Storage   → 512 TB
+E.Storage → 1 TB
 Network   → 1 × Ethernet
-Platform  → HP EliteBook 840 G8
+Platform  → Laptop
+OS        → Proxmox
 ```
 
 ---
