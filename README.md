@@ -41,7 +41,6 @@ I am building this environment to move beyond cybersecurity theory and gain prac
 
 # 🌐 Network Architecture
 
-![Cybersecurity Home Lab Diagram](assets/homelab-diagram.png)
 
 The lab is designed around an **OPNsense firewall**, with isolated VLANs for management, targets, security monitoring, attack simulation, and services.
 
