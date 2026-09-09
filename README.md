@@ -358,23 +358,7 @@ Hands-on forensic investigations using simulated evidence.
 
 ➡️ `./projects/digital-forensics`
 
----
 
-# 📊 Cybersecurity Skill Progress
-
-```text
-Networking              ███████░░░ 70%
-Linux                   ██████░░░░ 60%
-Windows Security        ██████░░░░ 60%
-Cybersecurity           ███████░░░ 70%
-Digital Forensics       ██████░░░░ 60%
-SIEM                    █████░░░░░ 50%
-Wazuh                   █████░░░░░ 50%
-Incident Response       █████░░░░░ 50%
-Threat Hunting          ████░░░░░░ 40%
-KQL                     ████░░░░░░ 40%
-Cloud Security          ███░░░░░░░ 30%
-Automation              ███░░░░░░░ 30%
 ```
 
 > These are self-assessed learning-progress indicators, not professional proficiency ratings.
