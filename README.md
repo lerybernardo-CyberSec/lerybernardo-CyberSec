@@ -322,43 +322,6 @@ Building a monitoring and detection environment using Wazuh.
 
 ➡️ `./projects/wazuh-soc-lab`
 
----
-
-## 🌐 Network Security Lab
-
-Building a segmented network using OPNsense and VLANs.
-
-### Objectives
-
-* Firewall configuration
-* Network segmentation
-* Inter-VLAN routing
-* Firewall rules
-* Network monitoring
-* Attack detection
-* Traffic analysis
-
-➡️ `./projects/network-security-lab`
-
----
-
-## 🔬 Digital Forensics Labs
-
-Hands-on forensic investigations using simulated evidence.
-
-### Areas
-
-* Windows artifacts
-* Event logs
-* File system analysis
-* Browser artifacts
-* User activity
-* Timeline analysis
-* Evidence documentation
-
-➡️ `./projects/digital-forensics`
-
-
 ```
 
 > These are self-assessed learning-progress indicators, not professional proficiency ratings.
